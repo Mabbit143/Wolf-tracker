@@ -1,0 +1,8 @@
+{
+  "name": "NWT Wolf Sightings & Research Tracker",
+  "description": "Geospatial monitoring and research platform for tracking wolf pack sightings, telemetry paths, and population dynamics across the Northwest Territories, Canada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
